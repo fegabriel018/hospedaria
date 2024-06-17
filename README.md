@@ -12,8 +12,8 @@ XAMPP instalado no seu computador
 Navegador web atualizado
 Editor de texto ou IDE para PHP (opcional)
 
-#Instalação do XAMPP
-Baixar o XAMPP:
+# Instalação do XAMPP
+  Baixar o XAMPP:
   Acesse o site oficial do XAMPP aqui.
   Faça o download da versão mais recente do XAMPP para o seu sistema operacional.
 
